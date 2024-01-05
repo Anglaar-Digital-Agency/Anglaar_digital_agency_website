@@ -1,10 +1,1 @@
-# Anglaar_digital_agency_website
-
-the repository for Anglaar digital agency's website
-Anglaar Digital Agency ensures that you build your online band visiblity as everyone wants to make profit
-
-Anglaar Digital Agency offers services such as web design and development, graphics design and brand identity, Product design, copy writing , and SEO 
-
-
-![anglaar best logo2](https://github.com/Ham12-3/Anglaar_digital_agency_website/assets/93613316/c3dac243-eb4f-4001-a70f-07af3c533fc0)
-
+![screencapture-localhost-3000-2023-06-17-18_27_01](https://github.com/sunil9813/Creative-Agency-UI-Next-JS-/assets/67497228/04546138-7cbb-40b0-8710-ce5fed29643b)
